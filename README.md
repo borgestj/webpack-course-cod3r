@@ -8,4 +8,4 @@ Como ele é configurado no projeto e suas particularidades.</br></br>
 -- Feito todos os passos e o mongoDB em execusão rode no terminal npm run dev para verificar o projeto.</br></br>
 
 
-<a href="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" title="gif"></a>
+<a href="https://imgflip.com/gif/2s0p6f"><img src="https://i.imgflip.com/2s0p6f.gif" title="made at imgflip.com"/></a>
