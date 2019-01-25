@@ -1,8 +1,11 @@
-Curso voltado para o aprendizado do Webpack
-Como ele é configurado no projeto e suas particularidades.
+Curso voltado para o aprendizado do Webpack.</br>
+Como ele é configurado no projeto e suas particularidades.</br></br>
 
--- Faça o clone do projeto
--- Na pasta do projeto rode npm i para instalar todos os pacotes necessários
--- Precisamos do mongoDB instalado e rodando na maquina para que os exemplos funcionem.
+-- Faça o clone do projeto.</br>
+-- Na pasta do projeto rode npm i para instalar todos os pacotes necessários.</br>
+-- Precisamos do mongoDB instalado e rodando na maquina para que os exemplos funcionem.</br>
+-- Com o mongoDB instalado rode o comando mongod.</br>
+-- Feito todos os passos e o mongoDB em execusão rode no terminal npm run dev para verificar o projeto.</br></br>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY"></a></p>
+
+<a href="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" title="gif"></a>
